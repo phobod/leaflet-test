@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"
+     width="35px" height="35px" viewBox="0 0 35 35" enable-background="new 0 0 35 35" xml:space="preserve">
+<defs/>
+<g type="LAYER" name="workspace" id="workspace" locked="true"/>
+<g type="LAYER" name="Layer 01" id="Layer 01">
+    <path id="border" transform="matrix(1 0 0 1 2.5000000000000853 2.5)" width="30" height="30" stroke-width="5" stroke-miterlimit="3" stroke="#cb5d1e" fill="#FFFFFF" opacity="0.51" d="M0,15.000000000000085 C0,6.715728000000041 6.715728000000183,0 15.000000000000114,0 C23.284272000000044,0 30,6.715728000000041 30,15.000000000000085 C30,23.284272000000158 23.284272000000044,30 15.000000000000114,30 C6.715728000000183,30 0,23.284272000000158 0,15.000000000000085 Z "/>
+    <path id="center" transform="matrix(1 0 0 1 12.500000000000028 12.49999999999988)" width="10" height="9.999999999999972" stroke-width="10" stroke-miterlimit="3" stroke="#cb5d1e" fill="#FFFFFF" d="M0,5.000000000000114 C0,2.2385760000001085 2.23857600000008,1.1368683772161603e-13 5,1.1368683772161603e-13 C7.761424000000147,1.1368683772161603e-13 10,2.2385760000001085 10,5.000000000000114 C10,7.761424000000147 7.761424000000147,10.000000000000085 5,10.000000000000085 C2.23857600000008,10.000000000000085 0,7.761424000000147 0,5.000000000000114 Z "/>
+</g>
+</svg>
